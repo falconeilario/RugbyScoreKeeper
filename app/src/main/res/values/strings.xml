@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rugby Score Keeper</string>
+    <string name="team1">Team 1</string>
+    <string name="team2">Team 2</string>
+    <string name="team1score">0</string>
+    <string name="team2score">0</string>
+    <string name="reset">End of the match</string>
+    <string name="score1">Try</string>
+    <string name="score2">Penalty try</string>
+    <string name="score3">Penalty</string>
+    <string name="score4">Drop goal</string>
+    <string name="score5">Conversion</string>
+</resources>
